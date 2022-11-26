@@ -1,1 +1,3 @@
-# FactoryPatternInC-WithDependencyInjection
+# Factory Pattern In Csharp With Dependency Injection
+
+In dependency injection, we typically put our dependencies in the constructor. When our class is created, our dependencies get created and injected. However, there are times when we want to create our dependencies more often or in different ways. One solution for this is the factory pattern. In this project, we are going to look at how to create factories for our various needs in C#. We will look at an abstract factory, a factory for initializing class instances with startup data, and a factory for instantiating different implementation classes based upon passed in parameters. With each solution, we will be implementing it inside of dependency injection for proper handling of dependencies.
