@@ -25,3 +25,11 @@ C:\source\Csharp\IntroToMediatR_ImplementingCQRSAndMediatorPatterns\FactoryPatte
 C:\source\Csharp\IntroToMediatR_ImplementingCQRSAndMediatorPatterns\FactoryPatternApp\FactoryPattern\obj\Debug\net6.0\FactoryPattern.pdb
 C:\source\Csharp\IntroToMediatR_ImplementingCQRSAndMediatorPatterns\FactoryPatternApp\FactoryPattern\obj\Debug\net6.0\FactoryPattern.genruntimeconfig.cache
 C:\source\Csharp\IntroToMediatR_ImplementingCQRSAndMediatorPatterns\FactoryPatternApp\FactoryPattern\obj\Debug\net6.0\ref\FactoryPattern.dll
+C:\source\Csharp\FactoryPatternInCsharpWithDependencyInjection\FactoryPatternApp\FactoryPattern\obj\Debug\net6.0\FactoryPattern.csproj.AssemblyReference.cache
+C:\source\Csharp\FactoryPatternInCsharpWithDependencyInjection\FactoryPatternApp\FactoryPattern\obj\Debug\net6.0\FactoryPattern.GeneratedMSBuildEditorConfig.editorconfig
+C:\source\Csharp\FactoryPatternInCsharpWithDependencyInjection\FactoryPatternApp\FactoryPattern\obj\Debug\net6.0\FactoryPattern.AssemblyInfoInputs.cache
+C:\source\Csharp\FactoryPatternInCsharpWithDependencyInjection\FactoryPatternApp\FactoryPattern\obj\Debug\net6.0\FactoryPattern.AssemblyInfo.cs
+C:\source\Csharp\FactoryPatternInCsharpWithDependencyInjection\FactoryPatternApp\FactoryPattern\obj\Debug\net6.0\FactoryPattern.csproj.CoreCompileInputs.cache
+C:\source\Csharp\FactoryPatternInCsharpWithDependencyInjection\FactoryPatternApp\FactoryPattern\obj\Debug\net6.0\FactoryPattern.MvcApplicationPartsAssemblyInfo.cache
+C:\source\Csharp\FactoryPatternInCsharpWithDependencyInjection\FactoryPatternApp\FactoryPattern\obj\Debug\net6.0\FactoryPattern.RazorAssemblyInfo.cache
+C:\source\Csharp\FactoryPatternInCsharpWithDependencyInjection\FactoryPatternApp\FactoryPattern\obj\Debug\net6.0\FactoryPattern.RazorAssemblyInfo.cs

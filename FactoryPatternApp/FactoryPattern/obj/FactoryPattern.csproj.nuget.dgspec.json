@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "C:\\source\\Csharp\\IntroToMediatR_ImplementingCQRSAndMediatorPatterns\\FactoryPatternApp\\FactoryPattern\\FactoryPattern.csproj": {}
+    "C:\\source\\Csharp\\FactoryPatternInCsharpWithDependencyInjection\\FactoryPatternApp\\FactoryPattern\\FactoryPattern.csproj": {}
   },
   "projects": {
-    "C:\\source\\Csharp\\IntroToMediatR_ImplementingCQRSAndMediatorPatterns\\FactoryPatternApp\\FactoryPattern\\FactoryPattern.csproj": {
+    "C:\\source\\Csharp\\FactoryPatternInCsharpWithDependencyInjection\\FactoryPatternApp\\FactoryPattern\\FactoryPattern.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\source\\Csharp\\IntroToMediatR_ImplementingCQRSAndMediatorPatterns\\FactoryPatternApp\\FactoryPattern\\FactoryPattern.csproj",
+        "projectUniqueName": "C:\\source\\Csharp\\FactoryPatternInCsharpWithDependencyInjection\\FactoryPatternApp\\FactoryPattern\\FactoryPattern.csproj",
         "projectName": "FactoryPattern",
-        "projectPath": "C:\\source\\Csharp\\IntroToMediatR_ImplementingCQRSAndMediatorPatterns\\FactoryPatternApp\\FactoryPattern\\FactoryPattern.csproj",
+        "projectPath": "C:\\source\\Csharp\\FactoryPatternInCsharpWithDependencyInjection\\FactoryPatternApp\\FactoryPattern\\FactoryPattern.csproj",
         "packagesPath": "C:\\Users\\alexe\\.nuget\\packages\\",
-        "outputPath": "C:\\source\\Csharp\\IntroToMediatR_ImplementingCQRSAndMediatorPatterns\\FactoryPatternApp\\FactoryPattern\\obj\\",
+        "outputPath": "C:\\source\\Csharp\\FactoryPatternInCsharpWithDependencyInjection\\FactoryPatternApp\\FactoryPattern\\obj\\",
         "projectStyle": "PackageReference",
         "configFilePaths": [
           "C:\\Users\\alexe\\AppData\\Roaming\\NuGet\\NuGet.Config",

@@ -1,8 +1,8 @@
 {
   "version": 2,
-  "dgSpecHash": "LzRBl2wia1iC1lrmiESp3UkXIcvHc9MHKJDgy6AR0rtTkL+q6KCqbE4EvGGaU3lsYzfitRDumF0fyavfb38gQg==",
+  "dgSpecHash": "g8blWxe3v7+l2W2GHyftetZ8GKXOiu9UL8OLuO70RNz3ULgeGLFuvGKjieQ765cKfbaHkngPhqZAzAg9XHw+6g==",
   "success": true,
-  "projectFilePath": "C:\\source\\Csharp\\IntroToMediatR_ImplementingCQRSAndMediatorPatterns\\FactoryPatternApp\\FactoryPattern\\FactoryPattern.csproj",
+  "projectFilePath": "C:\\source\\Csharp\\FactoryPatternInCsharpWithDependencyInjection\\FactoryPatternApp\\FactoryPattern\\FactoryPattern.csproj",
   "expectedPackageFiles": [],
   "logs": []
 }
